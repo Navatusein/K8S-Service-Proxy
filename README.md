@@ -39,8 +39,7 @@ wget https://github.com/Navatusein/K8S-Service-Proxy/releases/latest/download/k8
 or
 
 ```shell
-curl --output k8s-sp https://github.com/Navatusein/K8S-Service-Proxy/releases/latest/downl
-oad/k8s-sp
+curl --output k8s-sp https://github.com/Navatusein/K8S-Service-Proxy/releases/latest/download/k8s-sp
 ```
 
 #### Give the utility the right to execute
