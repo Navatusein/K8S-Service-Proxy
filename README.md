@@ -36,12 +36,6 @@ cluster.
 wget https://github.com/Navatusein/K8S-Service-Proxy/releases/latest/download/k8s-sp
 ```
 
-or
-
-```shell
-curl --output k8s-sp https://github.com/Navatusein/K8S-Service-Proxy/releases/latest/download/k8s-sp
-```
-
 #### Give the utility the right to execute
 
 ```shell
